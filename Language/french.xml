@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>French</Name>
+  <Code>FR</Code>
+  <Font>font_extended</Font>
+  <Interface>
+    <Record>
+      <Key>WorldLunarLots</Key>
+      <Value>Lune : Grande Mer (plus de minerais x20)</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldLunarShortDescLots</Key>
+      <Value>Situé à la limite d'une mer lunaire, où d'anciennes plaines de lave rencontrent les hautes terres accidentées, le terrain est un mélange de plaines ouvertes et de crêtes fracturées, façonné par les impacts et l'histoire volcanique. Sans atmosphère, il offre un environnement austère mais stable pour les opérations lunaires.</Value>
+    </Record>
+    <Record>
+      <Key>NewLunarWorldDescriptionShort</Key>
+      <Value>Sans atmosphère, la surface stérile et criblée de cratères de la Lune offre un environnement stable pour les opérations lunaires.</Value>
+    </Record>
+      <Key>LunarSpawnCraterVesperNameLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterVesperDescriptionLots</Key>
+      <Value>Un immense cratère sur le bas mare.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMontesUmbrarumNameLots</Key>
+      <Value>Monts de l’Ombre</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMontesUmbrarumDescriptionLots</Key>
+      <Value>Hauts plateaux cratérisés surplombant le grand mare.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterNoxNameLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterNoxDescriptionLots</Key>
+      <Value>Un cratère gigantesque et impressionnant – le plus grand de la région.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMonsArcanusNameLots</Key>
+      <Value>Mont Arcanus</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMonsArcanusDescriptionLots</Key>
+      <Value>Un abri protégé niché entre les falaises du haut plateau.</Value>
+    </Record>
+
+  </Interface>  
+</Language>
