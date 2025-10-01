@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>French</Name>
+  <Code>FR</Code>
+  <Font>font_extended</Font>
+  <Interface>
+    <Record>
+      <Key>WorldLunarLots</Key>
+      <Value>Lune : Grande Mer (plus de minerais x20)</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldLunarShortDescLots</Key>
+      <Value>Situé à la limite d'une mer lunaire, où d'anciennes plaines de lave rencontrent les hautes terres accidentées, le terrain est un mélange de plaines ouvertes et de crêtes fracturées, façonné par les impacts et l'histoire volcanique. Sans atmosphère, il offre un environnement austère mais stable pour les opérations lunaires.</Value>
+    </Record>
+    <Record>
+      <Key>NewLunarWorldDescriptionShort</Key>
+      <Value>Sans atmosphère, la surface stérile et criblée de cratères de la Lune offre un environnement stable pour les opérations lunaires.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterVesperNameLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterVesperDescriptionLots</Key>
+      <Value>Un immense cratère sur le bas mare.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMontesUmbrarumNameLots</Key>
+      <Value>Monts de l’Ombre</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMontesUmbrarumDescriptionLots</Key>
+      <Value>Hauts plateaux cratérisés surplombant le grand mare.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterNoxNameLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnCraterNoxDescriptionLots</Key>
+      <Value>Un cratère gigantesque et impressionnant – le plus grand de la région.</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMonsArcanusNameLots</Key>
+      <Value>Mont Arcanus</Value>
+    </Record>
+    <Record>
+      <Key>LunarSpawnMonsArcanusDescriptionLots</Key>
+      <Value>Un abri protégé niché entre les falaises du haut plateau.</Value>
+    </Record>
+
+    <Record>
+      <Key>LunarPoiRichOreCraterNameLots</Key>
+      <Value>Cratère de Minerai Riche</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNameLots</Key>
+      <Value>Cratère de Minerai Riche</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNameLots</Key>
+      <Value>Cratère de Minerai Riche</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNameLots</Key>
+      <Value>Cratère Riche en Minerai</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterGoldSilverDescriptionLots</Key>
+      <Value>Riche en Or et en Argent</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterGoldSilverDescriptionLots</Key>
+      <Value>Riche en Or et en Argent</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterGoldSilverDescriptionLots</Key>
+      <Value>Riche en Or et en Argent</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterGoldSilverDescriptionLots</Key>
+      <Value>Riche en Or et en Argent</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterCobaltDescriptionLots</Key>
+      <Value>Riche en Cobalt</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterCobaltDescriptionLots</Key>
+      <Value>Riche en Cobalt</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterCobaltDescriptionLots</Key>
+      <Value>Riche en Cobalt</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterCobaltDescriptionLots</Key>
+      <Value>Riche en Cobalt</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNickelLeadDescriptionLots</Key>
+      <Value>Riche en Nickel et Plomb</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNickelLeadDescriptionLots</Key>
+      <Value>Riche en Nickel et en Plomb</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNickelLeadDescriptionLots</Key>
+      <Value>Riche en Nickel et en Plomb</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiRichOreCraterNickelLeadDescriptionLots</Key>
+      <Value>Riche en Nickel et en Plomb</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusNameLots</Key>
+      <Value>Lacus Bellus</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusNameLots</Key>
+      <Value>Lacus Bellus</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusNameLots</Key>
+      <Value>Lacus Bellus</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusNameLots</Key>
+      <Value>Lacus Bellus</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterLacusBellusDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasNameLots</Key>
+      <Value>Cratère Veritas</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasNameLots</Key>
+      <Value>Cratère Véritas</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasNameLots</Key>
+      <Value>Cratère Véritas</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasNameLots</Key>
+      <Value>Cratère Véritas</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVeritasDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperNameLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperNameLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperNameLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperNameLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterVesperDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxNameLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxNameLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxNameLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxNameLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+    <Record>
+      <Key>LunarPoiGrandCraterCraterNoxDescriptionLots</Key>
+      <Value>Grand Cratère</Value>
+    </Record>
+
+    <Record>
+      <Key>GeoNameLunarDorsumCaradusLots</Key>
+      <Value>Dorsum Caradus</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarLacusJaewooLots</Key>
+      <Value>Lac Jaewoo</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarPromontoriumSolisLots</Key>
+      <Value>Promontoire du Soleil</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarMareSimonisLots</Key>
+      <Value>Mer de Simonis</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarMontesUmbrarumLots</Key>
+      <Value>Monts de l’Ombre</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarVallisLiamaLots</Key>
+      <Value>Vallée Liama</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarCraterVeritasLots</Key>
+      <Value>Cratère Vérité</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarLabyrinthusPetrLots</Key>
+      <Value>Labyrinthe de Petr</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarTerraDylanLots</Key>
+      <Value>Terre de Dylan</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarFossaMyersLots</Key>
+      <Value>Fosse Myers</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarDorsumMcLeanLots</Key>
+      <Value>Dorsum McLean</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarPalusAeternusLots</Key>
+      <Value>Marais Éternel</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarMonsArcanusLots</Key>
+      <Value>Mont Arcanus</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarCraterElissaeLots</Key>
+      <Value>Cratère Élissae</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarSinusTenebraeLots</Key>
+      <Value>Baie des Ténèbres</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarCraterVesperLots</Key>
+      <Value>Cratère Vesper</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarPlanitiaSolstitiaLots</Key>
+      <Value>Plaine du Solstice</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarMontesFulgurLots</Key>
+      <Value>Monts Fulgur</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarVallisCinerisLots</Key>
+      <Value>Vallée des Cendres</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarDorsumBorealisLots</Key>
+      <Value>Dorsum Boréal</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarLacusGelidusLots</Key>
+      <Value>Lac Glacial</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarPromontoriumZenithLots</Key>
+      <Value>Promontoire du Zénith</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarTerraFerrugineaLots</Key>
+      <Value>Terre de Fer</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarFossaAbyssusLots</Key>
+      <Value>Fosse de l’Abîme</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarMareSomniiLots</Key>
+      <Value>Mer des Songes</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarRimaSerpentisLots</Key>
+      <Value>Fente du Serpent</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarLacusBellusLots</Key>
+      <Value>Lac Beau</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarVallisOblivionisLots</Key>
+      <Value>Vallée de l’Oubli</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarCraterNoxLots</Key>
+      <Value>Cratère Nox</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarCraterSolarisLots</Key>
+      <Value>Cratère Solaris</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarCraterNovusLots</Key>
+      <Value>Cratère Novus</Value>
+    </Record>
+    <Record>
+      <Key>GeoNameLunarRupesMagnaLots</Key>
+      <Value>Falaise Magna</Value>
+    </Record>
+
+  </Interface>  
+</Language>
